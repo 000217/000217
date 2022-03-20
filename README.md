@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ## 👋 자기소개
 
+<p>
+  <img src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/266810752_324618579274857_3967255306519941398_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=WmBxqdUThoAAX-kOBxe&tn=GYhiTTKrRGtRl1aL&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8sjgOvytf8S0SnEGauIOdpjEncXGHDvEt0Z1IuT7H3yA&oe=623D7B57&_nc_sid=7bff83" alt="s" width="300" height="300">
+</p>
+
 안녕하세요! 저는 사이버국방학과 22학번 김성은입니다. 제 소개를 하자면, 저는 올해 들어온 패기 넘치는 신입생입니다! (하하) 항상 인생은 **도전**하면서 사는 것이 가장 즐겁다고 생각하여 모험을 두려워하지 않습니다. 이번 학기 동아리 활동 또한 새로운 것을 배워나가는만큼 열심히 참여하고 싶습니다! 제 mbti를 말하자면, 저는 **EST**까지는 확실한데, P랑 J은 반반이 나와서..😅 컨디션에 따라 **ESTP**가 나오거나 **ESTJ**가 나오는 것 같습니다. 처음해보는 대학교 중앙동아리인만큼 최선을 다 해보겠습니다! 😎
 
 ## 🎲 취미
