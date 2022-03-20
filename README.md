@@ -64,9 +64,10 @@ Here are some ideas to get you started:
 </p>
 
 ## ⚡ 링크
-<a href="https://www.instagram.com/2ooo.2.17/" target="_blank">
+
+<p>
     <img src="https://img.shields.io/badge/Instagram-FF7DB4?style=flat&logo=Instagram&logoColor=ffffff"/>
-</a> : www.instagram.com/2ooo.2.17/
+</p> : www.instagram.com/2ooo.2.17/
 <br> 눈팅 위주로 쓰고 있는 인스타 계정입니다. 맞팔 환영해요 😉
 
 ## 💬 하고 싶은 말
