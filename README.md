@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://t2.genius.com/unsafe/432x432/https%3A%2F%2Fimages.genius.com%2Fdff6391544deb958a61baf250934dc62.1000x1000x1.png" alt="jay" width="300" height="300">
 </p>
 
-박재범의 **GANADARA (Feat. 아이유 IU)** 💘
+박재범의 GANADARA (Feat. 아이유 IU) 💘
 
 ## ⭐ 별자리
  제 별자리는 물병자리 ♒ 입니다.
