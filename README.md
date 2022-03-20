@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
 ## 🎵 좋아하는 음악
 <p>
- <img src="https://image.bugsm.co.kr/album/images/original/80309/8030995.jpg">
+ <img src="https://image.bugsm.co.kr/album/images/original/80309/8030995.jpg" style="max-width: 100%;">
 </p>
  브라운 아이드 소울의 My Story
 
