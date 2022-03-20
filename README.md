@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&amp;height=250&amp;text=안녕하세요!&amp;fontAlign=60&amp;color=gradient" style="max-width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=Slice&amp;height=250&amp;text=안녕하세요!&amp;fontAlign=60&amp;color=gradient" style="max-width: 100%;">
 </p>
 
 ## 👋 자기소개
