@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 <p>
 
 <a href="geecbfdb@korea.ac.kr" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-CD1F48?style=flat&logo=Gmail&logoColor=cccccc"/>
+    <img src="https://img.shields.io/badge/Gmail-CD1F48?style=flat&logo=Gmail&logoColor=ffffff"/>
 </a> : 제 지메일 주소입니다.
