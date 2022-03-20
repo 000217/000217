@@ -33,6 +33,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=ffffff"/>
 </a> : 눈팅 위주로 쓰고 있는 인스타 계정입니다. 맞팔 환영해요 😉
 
+<a href="geecbfdb@korea.ac.kr" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-CD1F48?style=flat&logo=Gmail&logoColor=cccccc"/>
+</a> : 제 지메일 주소입니다.
+
+
 ## 하고 싶은 말
  이번 학기 스터디로 **Web Development**를 지원하였습니다. 코딩 공부를 시작한지 얼마 안됐지만 선배들 말씀 잘 듣고 따라가면서 **Devkor** 동아리 활동 열심히 하고 싶습니다. 화이팅! 감사합니다. 🙂
  
