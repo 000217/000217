@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
 ## 🎵 좋아하는 음악
 <p>
-  <img src="https://t2.genius.com/unsafe/432x432/https%3A%2F%2Fimages.genius.com%2Fdff6391544deb958a61baf250934dc62.1000x1000x1.png" alt="My Image" width="200" height="200">
+  <img src="https://t2.genius.com/unsafe/432x432/https%3A%2F%2Fimages.genius.com%2Fdff6391544deb958a61baf250934dc62.1000x1000x1.png" alt="My Image" width="300" height="300">
 </p>
  박재범의 GANADARA (Feat. 아이유 IU) 💘
 
