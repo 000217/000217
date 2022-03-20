@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=ffffff"/> (← 1학년동안 배울거, 아직 못해요 🥺)<br> 
 </p>
 
-## ⭐ 링크
+## ⭐ 별자리
  제 별자리는 물병자리 ♒ 입니다.
 
 ## ⚡ 링크
