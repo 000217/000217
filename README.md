@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://cdn.inflearn.com/public/courses/324571/course_cover/4b3b7d53-db93-42cc-b359-ca081e3fc99c/chan_htmlcssjs.png" alt="j" width="460" height="300">
 </p>
- 현재는 **Web Development**와 **App Development**에 관심이 많은데, 제가 평소에 옷 사는걸 좋아하는데 쇼핑이나 마켓 웹 또는 앱을 이용할 때 해당 플랫폼의 편의성이 수요에 있어서 매우 중요하다고 생각하여 해당 분야에 관심을 두고 공부하고자 합니다. 현재 앞으로의 진로를 고민하고 있으나, 만약 나중에 스타트업을 하게 되면 개발자로서 차별성 있는 플랫폼을 만들고 싶습니다!
+현재는 **Web Development**와 **App Development**에 관심이 많은데, 제가 평소에 옷 사는걸 좋아하는데 쇼핑이나 마켓 웹 또는 앱을 이용할 때 해당 플랫폼의 편의성이 수요에 있어서 매우 중요하다고 생각하여 해당 분야에 관심을 두고 공부하고자 합니다. 현재 앞으로의 진로를 고민하고 있으나, 만약 나중에 스타트업을 하게 되면 개발자로서 차별성 있는 플랫폼을 만들고 싶습니다!
  
 
 <p>
