@@ -33,8 +33,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=ffffff"/>
 </a> : 눈팅 위주로 쓰고 있는 인스타 계정입니다. 맞팔 환영해요 😉
 
-
-
+## 하고 싶은 말
+ 이번 학기 스터디로 **Web Development**를 지원하였습니다. 코딩 공부를 시작한지 얼마 안됐지만 선배들 말씀 잘 듣고 따라가면서 **Devkor** 동아리 활동 열심히 하고 싶습니다. 화이팅! 감사합니다. 🙂
+ 
 <p>
   <img src="https://img.shields.io/badge/C-a8b9cc?style=flat&logo=c&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=ffffff"/>
@@ -43,6 +44,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=HTML5&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=ffffff"/> (← 1학년동안 배울거, 아직 못해요 🥺)<br> 
 </p>
-
-## 하고 싶은 말
- 이번 학기 스터디로 **Web Development**를 지원하였습니다. 코딩 공부를 시작한지 얼마 안됐지만 선배들 말씀 잘 듣고 따라가면서 **Devkor** 동아리 활동 열심히 하고 싶습니다. 화이팅! 감사합니다. 🙂
