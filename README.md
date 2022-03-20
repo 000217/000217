@@ -27,6 +27,17 @@ Here are some ideas to get you started:
 
 ## 🛠 개발 분야
  현재는 **Web Development**와 **App Development**에 관심이 많은데, 제가 평소에 옷 사는걸 좋아하는데 쇼핑이나 마켓 웹 또는 앱을 이용할 때 해당 플랫폼의 편의성이 수요에 있어서 매우 중요하다고 생각하여 해당 분야에 관심을 두고 공부하고자 합니다. 현재 앞으로의 진로를 고민하고 있으나, 군복무를 마치게 되면 스타트업을 해보고자 하는 생각도 가지고 있습니다. 나중에 스타트업을 하게 되면 개발자로서 차별성 있는 플랫폼을 만들고 싶습니다!
+ 
+
+<p>
+  <img src="https://img.shields.io/badge/C-a8b9cc?style=flat&logo=c&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=HTML5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=ffffff"/> (← 1학년동안 배울거, 아직 못해요 🥺)<br> 
+</p>
+
 
 ## 💬 하고 싶은 말
  이번 학기 스터디로 **Web Development**를 지원하였습니다. 코딩 공부를 시작한지 얼마 안됐지만 선배들 말씀 잘 듣고 따라가면서 **Devkor** 동아리 활동 열심히 하고 싶습니다. 화이팅! 감사합니다. 🙂
@@ -41,12 +52,3 @@ Here are some ideas to get you started:
 <a href="geecbfdb@korea.ac.kr" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-CD1F48?style=flat&logo=Gmail&logoColor=cccccc"/>
 </a> : 제 지메일 주소입니다.
-
-<p>
-  <img src="https://img.shields.io/badge/C-a8b9cc?style=flat&logo=c&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=HTML5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=ffffff"/> (← 1학년동안 배울거, 아직 못해요 🥺)<br> 
-</p>
