@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;text=Hello World!&amp;fontAlign=60&amp;color=gradient" style="max-width: 100%;">
 </p>
 
-## 🙋‍♂️ 자기소개
+## 👋 자기소개
  안녕하세요! 저는 사이버국방학과 22학번 김성은입니다. 제 소개를 하자면, 저는 올해 들어온 패기 넘치는 신입생입니다! (하하) 항상 인생은 **도전**하면서 사는 것이 가장 즐겁다고 생각하여 모험을 두려워하지 않습니다. 이번 학기 동아리 활동 또한 새로운 것을 배워나가는만큼 열심히 참여하고 싶습니다! 제 mbti를 말하자면, 저는 **EST**까지는 확실한데, P랑 J은 반반이 나와서..😅 컨디션에 따라 **ESTP**가 나오거나 **ESTJ**가 나오는 것 같습니다. 처음 해보는 중앙 동아리인만큼 최선을 다 해보겠습니다! 😎
 
 ## 🎲 취미
