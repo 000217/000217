@@ -56,8 +56,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=HTML5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=ffffff"/> (← 1학년동안 배울거, 아직 못해요 🥺)<br> 
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=HTML5&logoColor=ffffff"/> (← 1학년동안 배울거, 아직 못해요 🥺)<br> 
 </p>
 
 ## ⚡ 링크
