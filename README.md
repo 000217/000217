@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br>
 <a href="geecbfdb@korea.ac.kr" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-FF3232?style=flat&logo=Gmail&logoColor=ffffff"/>
-</a> : 제 지메일 주소입니다.
+</a> : 제 지메일입니다.
 
 
 ## 💬 하고 싶은 말
