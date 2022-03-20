@@ -28,6 +28,9 @@ Here are some ideas to get you started:
  삼겹살 짱 좋아합니다!
  
 ## 🎵 좋아하는 음악
+<p>
+  <img src="https://t2.genius.com/unsafe/432x432/https%3A%2F%2Fimages.genius.com%2Fdff6391544deb958a61baf250934dc62.1000x1000x1.png" alt="My Image" width="400" height="400">
+</p>
  박재범의 GANADARA (Feat. 아이유 IU) 💘
 
 ## ⭐ 별자리
@@ -53,6 +56,3 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/2ooo.2.17/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF7DB4?style=flat&logo=Instagram&logoColor=ffffff"/>
 </a> : 눈팅 위주로 쓰고 있는 인스타 계정입니다. 맞팔 환영해요 😉
-
-## 📞 전화번호
-01031408591
