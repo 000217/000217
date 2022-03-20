@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  
 ## 🍱 좋아하는 음식
 <p>
-  <img src="https://cdn.mindgil.com/news/photo/202103/70839_7148_1250.jpg" alt="s" width="500" height="300">
+  <img src="https://cdn.mindgil.com/news/photo/202103/70839_7148_1250.jpg" alt="s" width="450" height="300">
 </p>
  삼겹살 짱 좋아합니다!
  
