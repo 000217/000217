@@ -33,6 +33,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=ffffff"/>
 </a> : 눈팅 위주로 쓰고 있는 인스타 계정입니다. 맞팔 환영해요 😉
 
+<p>
+
 <a href="geecbfdb@korea.ac.kr" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-CD1F48?style=flat&logo=Gmail&logoColor=cccccc"/>
 </a> : 제 지메일 주소입니다.
