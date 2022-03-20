@@ -28,7 +28,10 @@ Here are some ideas to get you started:
  삼겹살 짱 좋아합니다!
  
 ## 🎵 좋아하는 음악
- 박재범의 GANADARA(feat. 아이유) 💘
+<p>
+ <img src="https://image.bugsm.co.kr/album/images/original/80309/8030995.jpg">
+</p>
+ 브라운 아이드 소울의 My Story
 
 ## ⭐ 별자리
  제 별자리는 물병자리 ♒ 입니다.
