@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 
 
 ## ⚡ 링크
-<a href="instagram.com/2ooo.2.17/" target="_blank">
+<a href="https://www.instagram.com/2ooo.2.17/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF50CF?style=flat&logo=Instagram&logoColor=ffffff"/>
 </a> : 눈팅 위주로 쓰고 있는 인스타 계정입니다. 맞팔 환영해요 😉
 <br>
-<a href="geecbfdb@korea.ac.kr" target="_blank">
+<a href="https://geecbfdb@korea.ac.kr" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-FF3232?style=flat&logo=Gmail&logoColor=ffffff"/>
 </a> : 제 지메일입니다.
 
