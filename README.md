@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </a> : 눈팅 위주로 쓰고 있는 인스타 계정입니다. 맞팔 환영해요 😉
 <br>
 <a href="https://geecbfdb@korea.ac.kr" target="_blank">
-    <img src="https://img.shields.io/badge/Naver-FF3232?style=flat&logo=Naver&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/Naver-6DD66D?style=flat&logo=Naver&logoColor=ffffff"/>
 </a> : 제 지메일입니다.
 
 
