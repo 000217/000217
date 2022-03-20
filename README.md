@@ -26,12 +26,15 @@ Here are some ideas to get you started:
  
 ## 🍱 좋아하는 음식
  삼겹살 짱 좋아합니다!
+ 
+## 🎵 좋아하는 음악
+ 박재범의 GANADARA(feat. 아이유) 💘
 
 ## ⭐ 별자리
  제 별자리는 물병자리 ♒ 입니다.
  
 ## 🩸 혈액형
- 제 혈액형은 B형입니다.
+ 제 혈액형은 B형 🅱 입니다.
 
 ## 🛠 개발 분야 및 비전
  현재는 **Web Development**와 **App Development**에 관심이 많은데, 제가 평소에 옷 사는걸 좋아하는데 쇼핑이나 마켓 웹 또는 앱을 이용할 때 해당 플랫폼의 편의성이 수요에 있어서 매우 중요하다고 생각하여 해당 분야에 관심을 두고 공부하고자 합니다. 현재 앞으로의 진로를 고민하고 있으나, 만약 나중에 스타트업을 하게 되면 개발자로서 차별성 있는 플랫폼을 만들고 싶습니다!
@@ -50,3 +53,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/2ooo.2.17/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF7DB4?style=flat&logo=Instagram&logoColor=ffffff"/>
 </a> : 눈팅 위주로 쓰고 있는 인스타 계정입니다. 맞팔 환영해요 😉
+
+## 📞 전화번호
+01031408591
