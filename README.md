@@ -29,14 +29,12 @@ Here are some ideas to get you started:
  
 ## 🍱 좋아하는 음식
 
-![삼겹살](https://user-images.githubusercontent.com/101978633/159212732-392f7272-161d-47e4-8c93-a18fec6cce7c.jpg){: width="45
-0" height="300"}
+![삼겹살](https://user-images.githubusercontent.com/101978633/159212732-392f7272-161d-47e4-8c93-a18fec6cce7c.jpg){: width="450" height="300"}
 
 **삼겹살** 짱 좋아합니다!
  
 ## 🎵 좋아하는 음악
-![ganadara](https://user-images.githubusercontent.com/101978633/159212919-f7383235-d3d5-4834-a477-54dd06a3e05c.jpg){: width="30
-0" height="300"}
+![ganadara](https://user-images.githubusercontent.com/101978633/159212919-f7383235-d3d5-4834-a477-54dd06a3e05c.jpg){: width="300" height="300"}
 
 박재범의 **GANADARA (Feat. 아이유 IU)** 💘
 
