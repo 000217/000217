@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  
 ## 🍱 좋아하는 음식
 <p>
-  <img "https://post-phinf.pstatic.net/MjAyMDAzMDNfMTcg/MDAxNTgzMTkwNjA3ODQ5.kUXPHqGJ2xPDSu_3FiEoFC3kY9QyQ_g9CziCGrFSDuEg.LpCfOTbc5qth9d-GKzGv9jwj2VKhcqmPHp5cp1KJYEsg.JPEG/IM_food02.jpg?type=w1200" alt="sam" width="450" height="300">
+  <img "https://postfiles.pstatic.net/MjAyMjAzMjFfMTIy/MDAxNjQ3ODIzODYzOTc2.V6Am_BV6wY2aypew_kSA4QPmsY8jFKUY6yrZxi6e3eEg.R6gv_2Xs7T9VgCrMSqQTt4Bhen5QwCtHQ3IHjqms3Ecg.JPEG.geecbfdb/KakaoTalk_20220321_094137032.jpg?type=w966" alt="sam" width="450" height="300">
 </p>
 
 **삼겹살** 짱 좋아합니다!
