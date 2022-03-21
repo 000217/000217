@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  
 ## 🍱 좋아하는 음식
 <p>
-  <img src="https://cdn.mindgil.com/news/photo/202103/70839_7148_1250.jpg" alt="sam" width="450" height="300">
+  <img "https://post-phinf.pstatic.net/MjAyMDAzMDNfMTcg/MDAxNTgzMTkwNjA3ODQ5.kUXPHqGJ2xPDSu_3FiEoFC3kY9QyQ_g9CziCGrFSDuEg.LpCfOTbc5qth9d-GKzGv9jwj2VKhcqmPHp5cp1KJYEsg.JPEG/IM_food02.jpg?type=w1200" alt="sam" width="450" height="300">
 </p>
 
 **삼겹살** 짱 좋아합니다!
